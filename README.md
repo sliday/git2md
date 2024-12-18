@@ -18,8 +18,11 @@ Convert Git repositories or local folders into structured documentation, includi
 git clone https://github.com/yourusername/git2md.git
 cd git2md
 
-# Install dependencies
+# Basic installation
 pip install -r requirements.txt
+
+# For development
+pip install -r requirements.txt -r requirements-dev.txt
 ```
 
 ## Usage
