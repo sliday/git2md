@@ -2,6 +2,8 @@
 
 Convert Git repositories or local folders into structured documentation, including llms.txt format for LLM context.
 
+![CleanShot 2024-12-18 at 11 48 28@2x](https://github.com/user-attachments/assets/3388f003-d5b0-45e8-b5b6-ae85cb998d64)
+
 ## Features
 
 - Generates structured Markdown documentation from repositories
